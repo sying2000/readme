@@ -9,3 +9,5 @@
 #### [GitHub 实现多人协同提交代码并且权限分组管理](https://www.cnblogs.com/zhaoyanjun/p/5882784.html)
 
 #### [献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER/)
+
+### [如何组织书的目录结构](https://blog.csdn.net/hk2291976/article/details/51173850)
